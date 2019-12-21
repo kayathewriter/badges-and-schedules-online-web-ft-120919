@@ -1,2 +1,2 @@
-baker_maker(names)
-names = ["Arel, Stefan, Damon, Elena"]
+def badge_maker(names)
+names = ["Arel", "Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
