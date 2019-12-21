@@ -1,1 +1,2 @@
-# Write your code here.
+baker_maker(names)
+names = ["Arel, Stefan, Damon, Elena"]
